@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+body {
+  font-family: "Manrope", sans-serif;
+  min-height: max(884px, 100dvh);
+}
+
+.glass-header {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.ambient-glow {
+  box-shadow: 0 0 20px rgba(131, 217, 156, 0.15);
+}
+
+.item-card {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0) 100%);
+}
