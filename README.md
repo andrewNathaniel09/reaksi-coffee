@@ -1,6 +1,6 @@
 # ☕ Reaksi Haus Coffee POS
 
-Aplikasi Point of Sale (POS) berbasis Web/Progressive Web App (PWA) yang dirancang khusus untuk kedai kopi **Reaksi Haus**. Aplikasi ini beroperasi secara _offline-first_ di sisi klien dan dapat langsung terhubung ke mesin printer thermal kasir tanpa memerlukan aplikasi pihak ketiga.
+Aplikasi Point of Sale (POS) berbasis Web/Progressive Web App (PWA) yang dirancang khusus untuk coffee shop **Reaksi Haus**. Aplikasi ini beroperasi secara _offline-first_ di sisi klien dan dapat langsung terhubung ke mesin printer thermal kasir tanpa memerlukan aplikasi pihak ketiga.
 
 ## ✨ Fitur Utama
 
